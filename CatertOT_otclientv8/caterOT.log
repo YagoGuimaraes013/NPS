@@ -1,0 +1,22 @@
+GPU ANGLE (Radeon RX 580 Series Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/yagov/Videos/CatertOT_otclientv8/'
+== application started at Jun 26 2022 22:31:50
+CaterOT (dev) made by otclient.net built on May 23 2022 for arch x86
+Connecting to: 35.188.65.205:80
+Login to 34.95.153.178:7272
+Minimap couldn't be loaded, file missing?
+Login to 34.95.153.178:7272
+ERROR: protected lua call failed: /modules/gamelib/protocolgame.lua:49: opcode 60 already registered will be overriden
+stack traceback:
+	[C]: at 0x00b1a0f0
+	[C]: in function 'error'
+	/modules/gamelib/protocolgame.lua:49: in function 'registerOpcode'
+	/modules/game_protocol/protocol.lua:138: in function 'registerOpcode'
+	/modules/game_protocol/protocol.lua:88: in function </modules/game_protocol/protocol.lua:71>
+WARNING: [BOT] [vBot] Please create a new TargetBot config and reset bot
+WARNING: [BOT] !! Blessings not bought !!
+WARNING: [BOT] [vBot] Please create a new TargetBot config and reset bot
+WARNING: [BOT] !! Blessings not bought !!
+Exiting application..
